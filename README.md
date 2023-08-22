@@ -13,7 +13,7 @@
 - git clone https://github.com/jurawlew/Bookmark_proj.git
 - cd Bookmark_proj
 - python -m venv env
-- env/scripta/activate
+- env/scripts/activate
 - pip install -r requirements.txt
 - python manage.py makemigrations
 - python manage.py migrate
